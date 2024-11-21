@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "2ca68ce8-6ce5-4b62-8fdf-beab5e8ab6ab"
+      }
+    },
+    "android": {
+      "package": "com.raracookz.culinarybregade"
+    }
+  }
+}
